@@ -1,0 +1,24 @@
+{
+  "name": "empty-typescript-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^8.0.0",
+    "@types/expo": "^30.0.0",
+    "@types/expo__vector-icons": "^6.2.3",
+    "@types/react": "^16.4.18",
+    "@types/react-native": "^0.57.7",
+    "expo": "^31.0.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  }
+}
